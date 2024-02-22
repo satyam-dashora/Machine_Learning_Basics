@@ -6,5 +6,3 @@ This repo contains different machine learning algorithms with examples.
 - KNN classifier
 - K-means Ckustering
 - Decision Tree
-- Associate Rule Mining
-- Apriori Algorithm# Machine_Learning_Basics
